@@ -13,6 +13,9 @@ Trabalho e artigo realizados para obtenção de nota parcial.
 - Mario Haddad - mario.haddad@icomp.ufam.edu.br
 ## How To 📖
 
+Veja a execução e códigos e saídas visitando [aqui](http://exemplo.com/)
+ou...
+
 Clone o repositório
 
 ```bash
