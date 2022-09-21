@@ -9,7 +9,7 @@ Trabalho e artigo realizados para obtenção de nota parcial.
 - Diego Queiroz - diego.queiroz@icomp.ufam.edu.br
 - Emerson Veiga - emerson.veiga@icomp.ufam.edu.br
 - Gabriel Pacheco - gabriel.pacheco@icomp.ufam.edu.br
-- Junkes Maia - jqmj@icomp.ufam.edu.br
+- Noah Diunkz - jqmj@icomp.ufam.edu.br
 - Mario Haddad - mario.haddad@icomp.ufam.edu.br
 ## How To 📖
 
